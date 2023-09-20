@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 
 
-<!--
-**evelinAlbino/evelinAlbino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Evelin Albino
 
-Here are some ideas to get you started:
+- EStou estando na Alura
+- Estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organização e compartilhamentos dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entra em contato comigo 📧
+
+Albino.evelin@escola.pr.gov.br
+
+
