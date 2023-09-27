@@ -2,7 +2,7 @@
 
 Meu nome é Evelin Albino
 
-- EStou estando na [Alura](htts://www.alura.com.br)
+- EStou estando na [Alura](htts ://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaço para minha organização e compartilhamentos dos meu projetos desenvolvidos
 
